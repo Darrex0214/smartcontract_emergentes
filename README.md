@@ -73,7 +73,7 @@ La transacción se visualiza en **Etherscan** (pestaña *Transactions*) y en **M
 ![Contrato en Etherscan](./images/etherscan.png)
 
 ### 2. Token SCHP visible en MetaMask
-![Token SCHP en MetaMask](./images/wallet.png)
+![Token SCHP en MetaMask](./images/metamask.png)
 
 ---
 
